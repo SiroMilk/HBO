@@ -1,0 +1,27 @@
+{
+  "name": "tizenbrew-hbomax",
+  "version": "1.0.0",
+  "description": "Module TizenBrew giúp mở HBO Max (Max) trên Samsung Tizen TV, có hỗ trợ điều khiển bằng remote.",
+  "packageType": "mods",
+  "appName": "Max (HBO Max)",
+  "websiteURL": "https://play.max.com",
+  "main": "index.js",
+  "evaluateScriptOnDocumentStart": true,
+  "icon": "icon.png",
+  "keys": [
+    "MediaPlay",
+    "MediaPause",
+    "MediaPlayPause",
+    "MediaStop",
+    "MediaRewind",
+    "MediaFastForward",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "ChannelUp",
+    "ChannelDown"
+  ],
+  "author": "Duc",
+  "license": "MIT"
+}
